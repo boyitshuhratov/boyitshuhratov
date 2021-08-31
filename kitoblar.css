@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(19, 19, 19);
+}
+.box p {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
